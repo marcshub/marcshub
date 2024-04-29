@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marcshub
 - 👀 I’m interested in learning Python and HTML
-- 🌱 I’m currently learning about Python, HTML, Django and Flask
+- 🌱 I’m currently learning about Python, HTML, and Docker Comtainers
 - 📫 
 
 <!---
